@@ -1,0 +1,11 @@
+{
+  "name": "wheeloffortune",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beforeAfter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Sato",
+  "license": "ISC"
+}
